@@ -1,8 +1,5 @@
 package com.SurveySystem.model;
 
-import lombok.*;
-@Setter
-
 public class Survey {
     private int id_survey;
     private int id_admin;
