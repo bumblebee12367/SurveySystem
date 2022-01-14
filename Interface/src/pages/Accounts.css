@@ -1,0 +1,29 @@
+.text1{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
+.text2{
+    position: absolute;
+    top: 45%;
+    left: 20%;
+}
+.btn1{
+    position: absolute;
+    top: 55%;
+    left: 20%;
+}
+.btn2{
+    position: absolute;
+    top: 55%;
+    left: 30%;
+}
+#pccheck{
+    position: absolute;
+    width: 350px;
+    height: 250px;
+    top: 35%;
+    left: 65%;
+    transform:rotate(10deg) ;
+    border-radius:  50px;
+}

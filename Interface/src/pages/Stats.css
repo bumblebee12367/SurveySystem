@@ -1,0 +1,9 @@
+#stats{
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    top: 40%;
+    left: 60%;
+    transform:rotate(10deg) ;
+    border-radius:  50px;
+}

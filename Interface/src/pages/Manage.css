@@ -1,0 +1,16 @@
+#gears{
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    top: 35%;
+    left: 65%;
+    transform:rotate(10deg) ;
+}
+table{
+    border: 1px inset black;
+
+}
+td,tr,th{
+    border: 1px inset black;
+    padding: 20px;
+}

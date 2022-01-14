@@ -2,13 +2,15 @@ import './Navbar.css';
 import React from 'react';
 import { render } from '@testing-library/react';
 
+
 const Navbar = () => (
 	<nav className='navbar'>
 		<h1 id='parklogo'>Survey System   </h1>
 		<br />
+
 		<div class="dropdown">
 			<button className="dropbtn">
-				<img id='ham1' src="/Images/Burger.svg" alt="BurgerButton" />
+				<img  src="/Images/Burger.svg" alt="BurgerButton" />
 			</button>
 			<div className='dropdown-content'>
 				<a id='1' href='/'>
@@ -23,9 +25,7 @@ const Navbar = () => (
 				<a id='4' href='/client'>
 					Client's page
 				</a>
-				<a id='5' href='/survey'>
-					Survey
-				</a>
+
 			</div>
 		</div>
 

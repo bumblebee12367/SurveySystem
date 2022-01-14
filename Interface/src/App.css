@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  align-items: center;
 }
 
 .App-logo {
@@ -39,6 +40,10 @@ button{
   align-items: center;
   text-align: center;
   font-size: 15px;
+}
+select{
+  width: 200px;
+  height: 30px;
 }
 p{
   font-family:"Comic Sans MS";

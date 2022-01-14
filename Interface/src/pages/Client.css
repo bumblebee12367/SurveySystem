@@ -1,0 +1,23 @@
+
+
+.text5{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+.text8{
+    position: absolute;
+    top: 70%;
+    left: 16%;
+}
+form{
+
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    items-border-color: white;
+}
+*{
+    border-radius: 5px;
+    outline: none;
+}
